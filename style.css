@@ -71,7 +71,7 @@ body {
 
   transform: translateY(2px) translateX(-30px);
 
-  -webkit-box-reflect: right 48%;
+  -webkit-box-reflect: right 50%;
 }
 
 .circle-medium::before {
